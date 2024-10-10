@@ -1,0 +1,48 @@
+.btn-button-1 {
+  width: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  height: 40px;
+  border-radius: 39px;
+  background-color: #78b144;
+  border: none;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  font-weight: 500;
+  font-size: 14px;
+  color: white;
+}
+
+.btn-button-1:hover {
+  background-color: #f4f4f4;
+  border-style: solid;
+  border-color: #78b144;
+  color: #78b144;
+}
+
+.btn-button-2 {
+  width: auto;
+  height: 45px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 10px;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  border: none;
+  font-weight: 500;
+  font-size: 14px;
+  background-color: #f4f4f4;
+  border-style: solid;
+  border-color: #78b144;
+  color: #78b144;
+}
+
+.btn-button-2:hover {
+  background-color: #78b144;
+  border-style: solid;
+  border-color: #78b144;
+  color: #78b144;
+  color: white;
+}

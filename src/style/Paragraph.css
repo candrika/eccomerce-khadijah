@@ -1,0 +1,114 @@
+.text-paragraph1 {
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 40px;
+  color: #00b7fe;
+}
+
+.text-paragraph2 {
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 20px;
+  color: #00b7fe;
+}
+
+.text-paragraph3 {
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 20px;
+  color: white;
+}
+
+.text-paragraph4 {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: black;
+}
+
+.text-paragraph5 {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25px;
+  color: black;
+  text-align: left;
+}
+.text-paragraph5:hover {
+  color: #00b7fe;
+}
+
+.text-paragraph6 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 25px;
+  color: #00b7fe;
+}
+
+.text-paragraph7 {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 25px;
+  color: black;
+}
+
+.text-paragraph7:hover {
+  color: #00b7fe;
+}
+
+.text-paragraph8 {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 25px;
+  color: red;
+  text-decoration: line-through;
+}
+
+.text-paragraph8_1 {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 25px;
+  color: red;
+}
+
+.text-paragraph9 {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 25px;
+  color: black;
+}
+
+.text-paragraph10 {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 25px;
+  color: black;
+}
+
+/* ADMIN  */
+
+.text-text1 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  color: white;
+}
+
+.text-text2 {
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 25px;
+  color: white;
+}
+
+.text-text3 {
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 25px;
+  color: white;
+}
+
+.text-text4 {
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 20px;
+}
